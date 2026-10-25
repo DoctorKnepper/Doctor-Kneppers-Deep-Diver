@@ -96,4 +96,4 @@ If one platform's values aren't set, the workflow skips that platform. Update `m
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+CC0 1.0 (public domain). See [LICENSE](LICENSE).
