@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "B": "minecraft:bucket"
+  },
+  "pattern": [
+    "C C",
+    "CBC",
+    "CCC"
+  ],
+  "result": {
+    "id": "deepdiver:diving_chestplate"
+  }
+}

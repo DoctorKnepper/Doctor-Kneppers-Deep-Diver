@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "G": "minecraft:glass"
+  },
+  "pattern": [
+    "CCC",
+    "CGC"
+  ],
+  "result": {
+    "id": "deepdiver:diving_helmet"
+  }
+}

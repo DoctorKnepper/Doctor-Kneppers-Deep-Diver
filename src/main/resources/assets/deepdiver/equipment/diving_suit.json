@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "deepdiver:diving_suit"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "deepdiver:diving_suit"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "deepdiver:diving_suit"
+      }
+    ]
+  }
+}

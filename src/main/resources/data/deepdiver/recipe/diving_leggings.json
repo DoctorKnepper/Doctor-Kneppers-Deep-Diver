@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "P": "minecraft:prismarine_shard"
+  },
+  "pattern": [
+    "CCC",
+    "P P",
+    "C C"
+  ],
+  "result": {
+    "id": "deepdiver:diving_leggings"
+  }
+}

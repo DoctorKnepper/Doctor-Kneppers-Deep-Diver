@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "deepdiver",
+	"version": "${version}",
+	"name": "Deep Diver",
+	"description": "A craftable copper diving suit. Wear the full set to walk the ocean floor like dry land, breathe underwater, see in the deep and swim back up whenever you like.",
+	"authors": [
+		"DoctorKnepper"
+	],
+	"contact": {
+		"homepage": "https://github.com/DoctorKnepper/MC-Deep-Diver",
+		"sources": "https://github.com/DoctorKnepper/MC-Deep-Diver",
+		"issues": "https://github.com/DoctorKnepper/MC-Deep-Diver/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/deepdiver/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.deepdiver.DeepDiver"
+		]
+	},
+	"mixins": [
+		"deepdiver.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
