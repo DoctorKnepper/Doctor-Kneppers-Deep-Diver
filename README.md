@@ -1,4 +1,4 @@
-# Deep Diver
+# Doctor Knepper's Deep Diver
 
 A craftable copper diving suit. Wear the full set to walk the ocean floor like dry land, breathe underwater, see in the deep and swim back up whenever you like.
 
