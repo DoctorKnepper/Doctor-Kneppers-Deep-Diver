@@ -68,7 +68,7 @@ Install it on both the client and the server.
 
 ## Installing
 
-Download `deep-diver-<version>.jar` from the [releases page](https://github.com/DoctorKnepper/MC-Deep-Diver/releases), Modrinth or CurseForge, and put it in your `mods` folder along with Fabric API.
+Download `deep-diver-<version>.jar` from the [releases page](https://github.com/DoctorKnepper/Doctor-Kneppers-Deep-Diver/releases), Modrinth or CurseForge, and put it in your `mods` folder along with Fabric API.
 
 ## Building from source
 
